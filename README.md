@@ -1,10 +1,10 @@
 # domain-generalization-techniques
 
-### Domain generalization is the process of learning a model from one or more distinct but related domains (i.e., diverse training datasets that will generalize well to previously unseen testing domains. For example, given a training set of images derived from sketches, cartoons, and paintings
+#### Domain generalization is the process of learning a model from one or more distinct but related domains (i.e., diverse training datasets that will generalize well to previously unseen testing domains. For example, given a training set of images derived from sketches, cartoons, and paintings
 
-## Several fields of study are closely related to domain generalization, including but not limited to -
+#### Several fields of study are closely related to domain generalization, including but not limited to -
 
-* ### Domain adaptation
+* #### Domain adaptation
 Domain adaptation aims to maximize the performance on a given target domain using existing training source domain
 
 * ## Transfer learning
