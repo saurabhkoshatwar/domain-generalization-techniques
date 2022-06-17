@@ -4,6 +4,12 @@
 
 #### Several fields of study are closely related to domain generalization, including but not limited to -
 
+ <p>
+ <a href="https://github.com/saurabhkoshatwar/NSMDA-FinalYearProject">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhkoshatwar&repo=Domain-adaptation-deep-learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
+
 * #### Domain adaptation
 Domain adaptation aims to maximize the performance on a given target domain using existing training source domain
 
